@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="pdb" value="import pdb; pdb.set_trace() # TODO: REMOVE THIS!!!" description="pdb.set_trace() to invoke debugger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
