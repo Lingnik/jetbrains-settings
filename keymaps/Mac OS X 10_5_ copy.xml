@@ -8,10 +8,6 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="EditorCutLineBackward">
-    <keyboard-shortcut first-keystroke="meta back_space" />
-  </action>
-  <action id="EditorDeleteLine" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
