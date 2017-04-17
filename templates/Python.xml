@@ -4,7 +4,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="tb" value="import traceback; print('\n'.join([l.strip() for l in traceback.format_stack()])) # TODO: REMOVE THIS!!!" description="TJM print traceback.format_stack() at position" toReformat="false" toShortenFQNames="true">
+  <template name="stack" value="import traceback; print('\n'.join([l.strip() for l in traceback.format_stack()])) # TODO: REMOVE THIS!!!" description="TJM print traceback.format_stack() at position" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
