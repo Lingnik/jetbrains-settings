@@ -2,11 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -15,7 +15,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.py</mask>
-      <mask>*.</mask>
       <mask>*.hym</mask>
       <mask>*.hy</mask>
       <mask>*.h</mask>
@@ -24,6 +23,13 @@
       <mask>*.p*</mask>
       <mask>*.py*</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.html</mask>
+      <mask>*.m</mask>
+      <mask>*.msg</mask>
+      <mask>*.</mask>
+      <mask>*.tmp</mask>
+      <mask>*.tmpl</mask>
     </recentFileMasks>
   </component>
 </application>
