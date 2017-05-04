@@ -1,5 +1,10 @@
 <templateSet group="Python">
-  <template name="pdb" value="import pdb; pdb.set_trace() # TODO: REMOVE THIS!!!" description="pdb.set_trace() to invoke debugger" toReformat="false" toShortenFQNames="true">
+  <template name="pdb" value="import pdb; pdb.set_trace() # TODO: REMOVE THIS!!!" description="TJM pdb.set_trace() to invoke debugger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="stack" value="import traceback; print('\n'.join([l.strip() for l in traceback.format_stack()])) # TODO: REMOVE THIS!!!" description="TJM print traceback.format_stack() at position" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
