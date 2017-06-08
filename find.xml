@@ -27,12 +27,12 @@
       <mask>*.</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
-      <mask>*.py</mask>
       <mask>*</mask>
       <mask>*ac</mask>
       <mask>*acro</mask>
       <mask>*acro*</mask>
       <mask>forms.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
