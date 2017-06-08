@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -24,14 +25,15 @@
       <mask>*.html</mask>
       <mask>*.m</mask>
       <mask>*.msg</mask>
-      <mask>*.</mask>
       <mask>*.tmp</mask>
       <mask>*.tmpl</mask>
-      <mask>*</mask>
       <mask>*ac</mask>
       <mask>*acro</mask>
       <mask>*acro*</mask>
       <mask>forms.py</mask>
+      <mask>d</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
