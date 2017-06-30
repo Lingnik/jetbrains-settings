@@ -9,6 +9,7 @@
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="create_db" type="PLAIN_TEXT" />
+      <mapping pattern="c-upgrade" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern="help" type="PLAIN_TEXT" />
     </extensionMap>
