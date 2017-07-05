@@ -5,10 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="settings.py" />
     <recentFileMasks>
-      <mask>*ac</mask>
-      <mask>*acro</mask>
-      <mask>*acro*</mask>
       <mask>d</mask>
       <mask>*.</mask>
       <mask>*.html</mask>
@@ -36,6 +34,9 @@
       <mask>form.py</mask>
       <mask>form..py</mask>
       <mask>forms.py</mask>
+      <mask>set.py</mask>
+      <mask>sett.py</mask>
+      <mask>settings.py</mask>
     </recentFileMasks>
   </component>
 </application>
