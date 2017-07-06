@@ -12,8 +12,6 @@
       <mask>view</mask>
       <mask>views.</mask>
       <mask>views.py</mask>
-      <mask>f.py</mask>
-      <mask>for.py</mask>
       <mask>l.py</mask>
       <mask>login.py</mask>
       <mask>login..py</mask>
@@ -32,10 +30,12 @@
       <mask>forms.</mask>
       <mask>form.py</mask>
       <mask>form..py</mask>
-      <mask>forms.py</mask>
       <mask>set.py</mask>
       <mask>sett.py</mask>
       <mask>settings.py</mask>
+      <mask>f.py</mask>
+      <mask>for.py</mask>
+      <mask>forms.py</mask>
     </recentFileMasks>
   </component>
 </application>
