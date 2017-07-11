@@ -5,10 +5,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>d</mask>
       <mask>*.</mask>
-      <mask>*.html</mask>
       <mask>view</mask>
       <mask>views.</mask>
       <mask>views.py</mask>
@@ -23,8 +23,6 @@
       <mask>*.less</mask>
       <mask>login.html</mask>
       <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.py</mask>
       <mask>*.pyfor</mask>
       <mask>*.pyform</mask>
       <mask>for</mask>
@@ -36,6 +34,9 @@
       <mask>set.py</mask>
       <mask>sett.py</mask>
       <mask>settings.py</mask>
+      <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
