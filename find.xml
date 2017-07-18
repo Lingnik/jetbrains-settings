@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>view</mask>
       <mask>views.</mask>
@@ -32,10 +33,10 @@
       <mask>settings.py</mask>
       <mask>*.html</mask>
       <mask>*</mask>
-      <mask>*.py</mask>
       <mask>v.py</mask>
       <mask>view.py</mask>
       <mask>views.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
