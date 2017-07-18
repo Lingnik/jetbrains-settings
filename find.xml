@@ -6,11 +6,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>d</mask>
-      <mask>*.</mask>
       <mask>view</mask>
       <mask>views.</mask>
-      <mask>views.py</mask>
       <mask>f.py</mask>
       <mask>for.py</mask>
       <mask>l.py</mask>
@@ -36,6 +33,9 @@
       <mask>*.html</mask>
       <mask>*</mask>
       <mask>*.py</mask>
+      <mask>v.py</mask>
+      <mask>view.py</mask>
+      <mask>views.py</mask>
     </recentFileMasks>
   </component>
 </application>
