@@ -5,11 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sh" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>l.py</mask>
-      <mask>login.py</mask>
-      <mask>login..py</mask>
       <mask>login.h.py</mask>
       <mask>login.ht.py</mask>
       <mask>login.html.py</mask>
@@ -35,8 +32,11 @@
       <mask>*_.py</mask>
       <mask>*_wrap.py</mask>
       <mask>*_wrapper.py</mask>
-      <mask>*.py</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
