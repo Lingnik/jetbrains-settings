@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*_wrapper.py" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>for.py</mask>
       <mask>l.py</mask>
@@ -33,10 +33,10 @@
       <mask>v.py</mask>
       <mask>view.py</mask>
       <mask>views.py</mask>
-      <mask>*.py</mask>
       <mask>*_.py</mask>
       <mask>*_wrap.py</mask>
       <mask>*_wrapper.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
