@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.htm*" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>forms</mask>
       <mask>forms.</mask>
@@ -16,7 +16,6 @@
       <mask>sett.py</mask>
       <mask>settings.py</mask>
       <mask>*.html</mask>
-      <mask>*</mask>
       <mask>v.py</mask>
       <mask>view.py</mask>
       <mask>views.py</mask>
@@ -29,7 +28,6 @@
       <mask>*.m</mask>
       <mask>*.t</mask>
       <mask>*.txt</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -37,6 +35,8 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.htm*</mask>
+      <mask>*</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
