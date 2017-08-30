@@ -2,11 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>forms.</mask>
       <mask>form.py</mask>
       <mask>form..py</mask>
       <mask>forms.py</mask>
@@ -34,8 +31,9 @@
       <mask>*.htm</mask>
       <mask>*.htm*</mask>
       <mask>*</mask>
-      <mask>*.rst</mask>
       <mask>*.py</mask>
+      <mask>*.rs</mask>
+      <mask>*.rst</mask>
     </recentFileMasks>
   </component>
 </application>
