@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>form.py</mask>
       <mask>form..py</mask>
       <mask>forms.py</mask>
       <mask>set.py</mask>
@@ -25,17 +25,18 @@
       <mask>*.m</mask>
       <mask>*.t</mask>
       <mask>*.txt</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.htm*</mask>
       <mask>*</mask>
-      <mask>*.py</mask>
-      <mask>*.rs</mask>
       <mask>*.rst</mask>
+      <mask>*.rs</mask>
+      <mask>*.r</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
