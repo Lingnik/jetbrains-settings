@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f0955e3-445f-42a3-ac66-1f83c2ca0034" name="ely" url="http://elysium.lab.pdx.cloudboltsw.com:5798">
+        <fileTransfer host="elysium.lab.pdx.cloudboltsw.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5afbf7df-faf0-40d1-81ae-c089c42a4082" name="taylor-cits-63-2" url="https://10.60.63.2">
+        <fileTransfer host="10.60.63.2" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
