@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="views.py" />
     <recentFileMasks>
       <mask>form..py</mask>
       <mask>forms.py</mask>
@@ -15,8 +16,6 @@
       <mask>settings.py</mask>
       <mask>*.html</mask>
       <mask>v.py</mask>
-      <mask>view.py</mask>
-      <mask>views.py</mask>
       <mask>*_.py</mask>
       <mask>*_wrap.py</mask>
       <mask>*_wrapper.py</mask>
@@ -38,6 +37,8 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>view.py</mask>
+      <mask>views.py</mask>
     </recentFileMasks>
   </component>
 </application>
