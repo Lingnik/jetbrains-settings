@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.htm*" />
     <recentFileMasks>
       <mask>*_.py</mask>
       <mask>*_wrap.py</mask>
@@ -29,15 +30,15 @@
       <mask>views.py</mask>
       <mask>ht</mask>
       <mask>h</mask>
-      <mask>*.htm*</mask>
       <mask>*.ht</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
       <mask>mod.py</mask>
       <mask>models.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.htm</mask>
+      <mask>*.htm*</mask>
     </recentFileMasks>
   </component>
 </application>
