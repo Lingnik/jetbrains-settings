@@ -7,6 +7,7 @@
       <mapping ext="in" type="Bash" />
       <mapping ext="conf" type="Ini" />
       <mapping pattern="dr-microservices" type="Markdown" />
+      <mapping pattern="test_cloudbolt" type="PLAIN_TEXT" />
       <mapping pattern="c-docker" type="PLAIN_TEXT" />
       <mapping pattern="cit" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
