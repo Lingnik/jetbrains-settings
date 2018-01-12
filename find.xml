@@ -5,15 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sh" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.txt</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.rst</mask>
       <mask>*.rs</mask>
       <mask>*.r</mask>
-      <mask>*.p</mask>
       <mask>v.py</mask>
       <mask>view.py</mask>
       <mask>views.py</mask>
@@ -29,14 +27,16 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.</mask>
-      <mask>*.py</mask>
       <mask>.py</mask>
       <mask>se.py</mask>
       <mask>set.py</mask>
       <mask>settings.py</mask>
       <mask>*</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
