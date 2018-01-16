@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Unnamed" />
+    <option name="defaultScopeName" value="Unnamed" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Unnamed" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -16,8 +16,6 @@
       <mask>views.py</mask>
       <mask>ht</mask>
       <mask>h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>mod.py</mask>
       <mask>models.py</mask>
       <mask>*.htm</mask>
@@ -31,11 +29,13 @@
       <mask>set.py</mask>
       <mask>settings.py</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
