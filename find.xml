@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Unnamed" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Unnamed" />
-    <option name="FILE_MASK" value="*.rst" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -34,9 +34,9 @@
       <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.rst</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
