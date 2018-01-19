@@ -3,11 +3,10 @@
     <option name="customScope" value="Unnamed" />
     <option name="defaultScopeName" value="Unnamed" />
     <option name="SEARCH_SCOPE" value="Unnamed" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.rst" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.rs</mask>
       <mask>*.r</mask>
       <mask>v.py</mask>
       <mask>view.py</mask>
@@ -32,9 +31,10 @@
       <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.p</mask>
-      <mask>*.rst</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.rs</mask>
+      <mask>*.rst</mask>
     </recentFileMasks>
   </component>
 </application>
