@@ -3,11 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="urls.py" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>v.py</mask>
       <mask>view.py</mask>
@@ -25,7 +23,6 @@
       <mask>se.py</mask>
       <mask>set.py</mask>
       <mask>settings.py</mask>
-      <mask>*</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
@@ -33,12 +30,13 @@
       <mask>*.p</mask>
       <mask>*.rs</mask>
       <mask>*.rst</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.py</mask>
       <mask>.py</mask>
       <mask>ur.py</mask>
       <mask>urls.py</mask>
+      <mask>*</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
