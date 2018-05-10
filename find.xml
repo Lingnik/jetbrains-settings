@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>views.py</mask>
       <mask>ht</mask>
@@ -24,16 +25,16 @@
       <mask>*.rs</mask>
       <mask>.py</mask>
       <mask>ur.py</mask>
-      <mask>*</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.rst</mask>
-      <mask>*.py</mask>
       <mask>url</mask>
       <mask>urls.</mask>
       <mask>urls.py</mask>
+      <mask>*</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
