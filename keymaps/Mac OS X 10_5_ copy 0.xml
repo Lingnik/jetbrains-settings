@@ -1,5 +1,15 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 0" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="EditorToggleInsertState">
     <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" second-keystroke="f" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta f" second-keystroke="d" />
   </action>
 </keymap>

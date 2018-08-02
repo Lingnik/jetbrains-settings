@@ -1,41 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>d</mask>
-      <mask>*.</mask>
-      <mask>*.html</mask>
-      <mask>view</mask>
-      <mask>views.</mask>
-      <mask>views.py</mask>
-      <mask>l.py</mask>
-      <mask>login.py</mask>
-      <mask>login..py</mask>
-      <mask>login.h.py</mask>
-      <mask>login.ht.py</mask>
-      <mask>login.html.py</mask>
+      <mask>ht</mask>
+      <mask>h</mask>
+      <mask>mod.py</mask>
+      <mask>models.py</mask>
+      <mask>*.htm</mask>
+      <mask>*.htm*</mask>
+      <mask>*.ls</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>login.html</mask>
-      <mask>.</mask>
+      <mask>se.py</mask>
+      <mask>set.py</mask>
+      <mask>settings.py</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.rs</mask>
+      <mask>.py</mask>
+      <mask>ur.py</mask>
+      <mask>*.h</mask>
+      <mask>url</mask>
+      <mask>urls.</mask>
+      <mask>urls.py</mask>
       <mask>*</mask>
       <mask>*.py</mask>
-      <mask>*.pyfor</mask>
-      <mask>*.pyform</mask>
-      <mask>for</mask>
-      <mask>forms</mask>
-      <mask>forms.</mask>
-      <mask>form.py</mask>
-      <mask>form..py</mask>
-      <mask>set.py</mask>
-      <mask>sett.py</mask>
-      <mask>settings.py</mask>
-      <mask>f.py</mask>
-      <mask>for.py</mask>
-      <mask>forms.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.r</mask>
+      <mask>*.rst</mask>
     </recentFileMasks>
   </component>
 </application>
