@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>ht</mask>
       <mask>h</mask>
@@ -31,10 +33,10 @@
       <mask>*.r</mask>
       <mask>*.rst</mask>
       <mask>*</mask>
-      <mask>*.py</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
