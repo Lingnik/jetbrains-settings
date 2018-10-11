@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>ht</mask>
       <mask>h</mask>
       <mask>mod.py</mask>
       <mask>models.py</mask>
@@ -22,18 +21,19 @@
       <mask>*.s</mask>
       <mask>*.rs</mask>
       <mask>.py</mask>
-      <mask>ur.py</mask>
       <mask>url</mask>
       <mask>urls.</mask>
-      <mask>urls.py</mask>
       <mask>*.p</mask>
       <mask>*.ht</mask>
       <mask>*.r</mask>
       <mask>*.rst</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>ur.py</mask>
+      <mask>urls.py</mask>
+      <mask>urls.py.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
