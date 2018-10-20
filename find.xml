@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rst" />
     <recentFileMasks>
       <mask>h</mask>
       <mask>mod.py</mask>
@@ -27,7 +28,6 @@
       <mask>*.p</mask>
       <mask>*.ht</mask>
       <mask>*.r</mask>
-      <mask>*.rst</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>ur.py</mask>
@@ -36,6 +36,7 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.py</mask>
+      <mask>*.rst</mask>
     </recentFileMasks>
   </component>
 </application>
