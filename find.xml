@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>mod.py</mask>
       <mask>models.py</mask>
       <mask>*.ls</mask>
       <mask>*.le</mask>
@@ -24,15 +26,16 @@
       <mask>ur.py</mask>
       <mask>urls.py</mask>
       <mask>urls.py.py</mask>
-      <mask>*</mask>
       <mask>*.rst</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.htm*</mask>
       <mask>*.pyy</mask>
+      <mask>V</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
