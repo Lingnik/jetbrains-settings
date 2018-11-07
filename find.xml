@@ -5,11 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>models.py</mask>
-      <mask>*.ls</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>se.py</mask>
       <mask>set.py</mask>
       <mask>settings.py</mask>
@@ -34,6 +29,11 @@
       <mask>V</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.pawy</mask>
+      <mask>*.pay</mask>
+      <mask>aw*.py</mask>
+      <mask>aws*.py</mask>
+      <mask>*aws*.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
