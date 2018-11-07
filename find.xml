@@ -5,8 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>se.py</mask>
-      <mask>set.py</mask>
       <mask>settings.py</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
@@ -34,6 +32,8 @@
       <mask>aw*.py</mask>
       <mask>aws*.py</mask>
       <mask>*aws*.py</mask>
+      <mask>mod.py</mask>
+      <mask>models.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
